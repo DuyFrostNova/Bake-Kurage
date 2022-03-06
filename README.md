@@ -1,6 +1,7 @@
-# Recipes Demo
+# Bake Kurage
 
-A simple project which display a list of recipes.
+It means "monster jellyfish", which is a reference from Genshin Impact.
+Just a place where I do some tests and revise ReactJS knowledge :)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
