@@ -1,7 +1,7 @@
 # Bake Kurage
 
-It means "monster jellyfish", which is a reference from Genshin Impact.
-Just a place where I do some tests and revise ReactJS knowledge :)
+It means "monster jellyfish", which is a reference from Genshin Impact.\
+Just a place where I do some tests and revise ReactJS knowledge :)\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
